@@ -1,22 +1,21 @@
-/* .main {
-  height: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
+.main {
+  width: 100%;
+  height: max-content;
+  height:max-content;
+  text-align: -webkit-center;
   background-image: url('https://www.mycomputercareer.edu/wp-content/uploads/2020/10/What-is-the-Information-Technology-Security-and-Administration-Program.jpg');
-} */
-
-.container {
-    text-align: -webkit-center;
-    height: 100%;
 }
 
+.container{
+    height: 800px;
+    padding-top: 200px;
+}
 .card {
-    margin-top: 150px;
     margin-bottom: auto;
     width: 500px;
     align-content: center;
-    background-color: rgba(212, 232, 207, 0.978) !important;
-}
+    background-color: rgba(212, 232, 207, 0.978);
+}  
 
 .remember {
     color: rgb(8, 22, 90);
