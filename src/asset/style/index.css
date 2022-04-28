@@ -3,7 +3,7 @@
   height: max-content;
   height:max-content;
   text-align: -webkit-center;
-  background-image: url('https://www.mycomputercareer.edu/wp-content/uploads/2020/10/What-is-the-Information-Technology-Security-and-Administration-Program.jpg');
+/*   background-image: url('https://www.mycomputercareer.edu/wp-content/uploads/2020/10/What-is-the-Information-Technology-Security-and-Administration-Program.jpg'); */
 }
 
 .loginmain{
@@ -38,4 +38,14 @@
 .nav-link {
     float: left;
     margin-top: 20px;
+}
+/* mobie: width < 740px */
+@media only  screen and ( max-width: 46.1875em )  {
+
+    
+}
+
+/* tablet: 740px =< witdth =< 1024px  */
+@media only screen and ( min-width: 46.25em ) and ( max-width: 63.9375em){
+    
 }
