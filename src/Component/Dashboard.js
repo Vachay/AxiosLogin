@@ -6,7 +6,7 @@ export default function Dashboard() {
     return (
         <div className='container dashboard'>
             <div className='header-main'>
-                <a href='#' className='logo float-left'> <img src={require("./asset/images/logo.jpg") alt='logo'></img></a>
+                <a href='#' className='logo float-left'> <img src={require("./asset/images/logo.jpg")} alt='logo'></img></a>
 
                 <div className='float-right menu'>
                     <ul style={{ display: 'none' }}>
