@@ -71,7 +71,7 @@ function Login() {
                             <div>
                                 {
                                     success ? (
-                                        <Link to='/home'>
+                                        <Link to='/dashboard'>
                                             <button className='btn btn-default float-right ' onClick={handlelogin}>Login</button>
                                         </Link>
                                     ) :
