@@ -1,9 +1,8 @@
 .main {
   width: 100%;
-  height: max-content;
-  height:max-content;
+  height: 753px;
   text-align: -webkit-center;
-/*   background-image: url('https://www.mycomputercareer.edu/wp-content/uploads/2020/10/What-is-the-Information-Technology-Security-and-Administration-Program.jpg'); */
+  background-image: url('https://www.mycomputercareer.edu/wp-content/uploads/2020/10/What-is-the-Information-Technology-Security-and-Administration-Program.jpg');
 }
 
 .loginmain{
